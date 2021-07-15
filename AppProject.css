@@ -1,0 +1,28 @@
+.button:hover  {
+
+ /* background-color:darkblue; */
+ background-color: lightblue;
+ color: rgb(8, 8, 247);   
+}
+
+.delete{
+    margin: auto;
+    padding: 30px 25px;
+    width: 10%;
+    color : red;
+    cursor: pointer;
+    border: 2px darkred;
+    /* border-radius: 2px;
+    border-radius: 2px solid red; */
+} 
+
+.pointer {
+    cursor: pointer;
+}
+/* .border{
+    /* border: 2px solid red;    */
+
+/* 
+.Span{
+    color: blue;
+} */
